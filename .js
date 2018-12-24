@@ -8,6 +8,8 @@ function myReplace(str, before, after) {
    }
    return str.replace(before, after);
 }
+myReplace("Let us get back to more Coding", "Coding", "algorithms"); // return "Let us get back to more Algorithms"
+
 
 
 /***************    Solution #2     **************************************************************************************/
