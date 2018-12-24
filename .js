@@ -1,3 +1,4 @@
+
 /***************    Solution #1     **************************************************************************************/
 
 function myReplace(str, before, after) {
@@ -26,4 +27,6 @@ function myReplace2(str, before, after) {
 
 
 
-/***************    Solution #3     **************************************************************************************/
+
+// Retrieved from
+// https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/search-and-replace/
